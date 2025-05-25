@@ -35,7 +35,7 @@ Edit
 1. Clone the repository:
 
 ``bash
-git clone https://github.com/your-username/EnhancedTodoList.git
+https://github.com/Abhisheksharma9934/EnhancedTodoList-by-Team-Jaat    ....this is the java project which use can access
 Compile the Java file:
 
 bash
@@ -64,8 +64,7 @@ Task filtering and search
 This project is open-source and available under the MIT License.
 
 yaml
-Copy
-Edit
+
 
 ---
 
